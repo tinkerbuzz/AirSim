@@ -1,4 +1,5 @@
 #! /bin/bash
+# This is a test
 
 if [[ -d "llvm-source-39" ]]; then
     echo "Hello there! We just upgraded AirSim to Unreal Engine 4.18."
